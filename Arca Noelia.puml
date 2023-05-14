@@ -1,8 +1,31 @@
 @startuml
 
-:Moby Dick:
+:Moby_Dick:
+(No dice nada)
+
+Moby_Dick -- (No dice nada)
+
 :Caín:
+(Grrr)
+
+Caín -- (Grrr)
+
 :Skiper:
+
+Skiper -- (No dice nada)
+
 :Abel:
-:Loro volador:
+(Guau)
+
+Abel -- (Guau)
+
+:Loro:
+(Lorito bonito)
+(Pretty Polly)
+(Viva mi dueño)
+
+Loro -- (Lorito bonito)
+Loro -- (Pretty Polly)
+Loro -- (Viva mi dueño)
+
 @enduml
